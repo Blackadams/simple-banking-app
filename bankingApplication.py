@@ -33,7 +33,7 @@ def getPreviousTransaction():
     
 def showMenu():
     print('--------------------------------------')
-    print('National Bank of Indonesia')
+    print('National Bank of Newton')
     print('--------------------------------------')
     print('A. Check Balance')
     print('B. Deposit')
@@ -69,4 +69,4 @@ def showMenu():
 
     print('Thank you for using our service!')
 
-main("Daotaku", "xyz-001")
+main("Newton", "xyz-001")
